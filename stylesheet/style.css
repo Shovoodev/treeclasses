@@ -1,0 +1,39 @@
+h1 {
+    color :red;
+}
+
+.simone {
+    color: aquamarine;
+}
+
+#paperino {
+    color: darkgoldenrod;
+}
+div  {
+    background-color : yellow;
+    height: 900px;
+    width: 900px;
+}
+.in_1{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    
+}
+.in_2{
+    background-color: green;
+    height: 300px;
+    width: 300px;
+}   
+.in_3 {
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+}
+div:hover {
+    transform: rotate(39);
+}
+
+.in_1:hover {
+    transform: scale(1.1);
+}
